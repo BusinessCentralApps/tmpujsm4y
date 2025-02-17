@@ -1,6 +1,7 @@
 {
   "powerPlatformSolutionFolder": "WarehouseHelper",
   "type": "PTE",
-  "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
-  "MicrosoftTelemetryConnectionString": ""
+  "templateUrl": "https://github.com/businesscentralapps/tmpA0SVvQ-PTE@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "1b673ed7399e803c6f5ecd392e8a827ff1d691ec"
 }
